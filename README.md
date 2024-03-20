@@ -20,7 +20,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 
 1. Clonez ce repo sur votre machine :
    ```
-   git clone https://github.com/votre-utilisateur/cours-api-laravel.git
+   https://github.com/Diam-98/laravel-api.git
    ```
 
 2. Accédez au répertoire du projet :
